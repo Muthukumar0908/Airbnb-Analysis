@@ -5,6 +5,8 @@ Skills take away From This Project : Python scripting, Data Preprocessing, Visua
 
 Domain : Travel Industry, Property Management and Tourism.
 
+youTube_link:https://youtu.be/iI7f0hA6mNQ
+
 Problem Statement:
 
     1. Clean and prepare the dataset, addressing missing values, duplicates, and data type conversions for accurate analysis.
