@@ -7,7 +7,7 @@ Domain : Travel Industry, Property Management and Tourism.
 
 youTube_link:https://youtu.be/iI7f0hA6mNQ
 
-Problem Statement:
+**Problem Statement:**
 
     1. Clean and prepare the dataset, addressing missing values, duplicates, and data type conversions for accurate analysis.
     2. Develop a streamlit web application with interactive maps showcasing the distribution of Airbnb listings, allowing users to explore prices, ratings, and other relevant factors.
@@ -16,7 +16,7 @@ Problem Statement:
     5. Investigate location-based insights by extracting and visualizing data for specific regions or neighborhoods.
     6. Create interactive visualizations that enable users to filter and drill down into the data.
     7. Build a comprehensive dashboard using Tableau or Power BI, combining various visualizations to present key insights from the analysis.
-Approach:
+**Approach:**
 
     1. Data Cleaning and Preparation: Clean the Airbnb dataset by handling missing values, removing duplicates, and transforming data types as necessary. Prepare the dataset for EDA and visualization tasks, ensuring data integrity and consistency.
     2. Geospatial Visualization: Develop a streamlit web application that utilizes  the geospatial data from the Airbnb dataset to create interactive maps. Visualize the distribution of listings across different locations, allowing users to explore prices, ratings, and other relevant factors.
