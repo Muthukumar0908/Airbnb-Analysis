@@ -25,7 +25,7 @@ youTube_link:https://youtu.be/iI7f0hA6mNQ
     5. Location-Based Insights: Investigate how the price of listings varies across different locations. Use MongoDB queries and data aggregation techniques to extract relevant information for specific regions or neighborhoods. Visualize these insights on interactive maps or create dashboards in tools like Tableau or Power BI.
     6. Interactive Visualizations: Develop dynamic and interactive visualizations that allow users to filter and drill down into the data based on their preferences. Enable users to interact with the visualizations to explore specific regions, property types, or time periods of interest.
     7. Dashboard Creation: Utilize Tableau or Power BI or Streamlit to create a comprehensive dashboard that presents key insights from your analysis. Combine different visualizations, such as maps, charts, and tables, to provide a holistic view of the Airbnb dataset and its patterns.
-The learning outcomes of this project are:
+**The learning outcomes of this project are:**
 
     1. Streamlit Web Application: Build a user-friendly web application using Streamlit, enhancing skills in web application development for interactive data exploration and visualization.
     2. Python Data Analysis: Utilize Python for data cleaning, analysis, and visualization tasks, developing expertise in Python libraries such as Pandas and NumPy for data manipulation.
